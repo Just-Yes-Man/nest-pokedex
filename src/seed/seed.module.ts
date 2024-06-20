@@ -6,4 +6,4 @@ import { SeedController } from './seed.controller';
   controllers: [SeedController],
   providers: [SeedService],
 })
-export class SeedModule {}
+export class SeedModule { }
